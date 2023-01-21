@@ -1,0 +1,155 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Dimdawn",
+	"Base": {
+		"ambientLight": 1.5,
+		"gravityFallOff": "linear",
+		"groundSize": 30.0,
+		"hasMapMarker": true,
+		"surfaceGravity": 7.0,
+		"surfaceSize": 30.5,
+		"gravityVolumePriority": 1
+	},
+	"Orbit": {
+		"primaryBody": "Brightdusk",
+		"isTidallyLocked": true,
+		"semiMajorAxis": 600.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_Staff",
+				"position": {
+					"x": 29.1546974,
+					"y": 2.62222481,
+					"z": 6.567214
+				},
+				"rotation": {
+					"x": 10.8718195,
+					"y": 166.340149,
+					"z": 84.8936539
+				},
+				"keepLoaded": true
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 29.3379478,
+					"y": 1.23617554,
+					"z": 6.14475441
+				},
+				"rotation": {
+					"x": 310.317535,
+					"y": 170.956116,
+					"z": 86.34872
+				},
+				"keepLoaded": true
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Props_NOM_Table",
+				"position": {
+					"x": 29.5169067,
+					"y": 2.266245,
+					"z": 4.859842
+				},
+				"rotation": {
+					"x": 314.26712,
+					"y": 346.192749,
+					"z": 276.212952
+				},
+				"keepLoaded": true
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_Staff",
+				"position": {
+					"x": 29.1028862,
+					"y": 3.79384613,
+					"z": 6.21522951
+				},
+				"rotation": {
+					"x": 315.416443,
+					"y": 175.162949,
+					"z": 79.77251
+				},
+				"keepLoaded": true
+			},
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"position": {
+					"x": 29.4684849,
+					"y": -3.52265549,
+					"z": 4.3816905
+				},
+				"rotation": {
+					"x": 21.10633,
+					"y": 348.926727,
+					"z": 262.769257
+				},
+				"keepLoaded": true
+			}
+		],
+		"nomaiText": [
+			{
+				"position": {
+					"x": 29.6955414,
+					"y": 4.50096941,
+					"z": 4.36854172
+				},
+				"rotation": {
+					"x": 353.697479,
+					"y": 306.348,
+					"z": 5.6033206
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/nomaitext2.xml",
+				"rename": "nomai_discussion2"
+			},
+			{
+				"position": {
+					"x": 29.9220161,
+					"y": 3.95041275,
+					"z": 3.66049337
+				},
+				"rotation": {
+					"x": 353.431976,
+					"y": 243.204376,
+					"z": 84.93505
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/nomaitext3.xml",
+				"rename": "nomai_discussion3"
+			}
+		],
+		"reveal": [
+			{
+			  "position": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			  },
+			  "revealOn": "observe",
+			  "reveals": [
+				"Dimdawn_tree"
+			  ],
+			  "radius": 50
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {
+		"xmlFile": "planets/Shiplog/shiplog_dimdawn.xml",
+		"spriteFolder": "planets/Sprites/",
+		"entryPositions": [
+			{
+			  "id": "Dimdawn_main",
+			  "position": {
+				"x": 1050,
+				"y": 1600
+			  }
+			}
+		]
+	},
+	"ShockEffect": {}
+}

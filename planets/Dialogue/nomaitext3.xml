@@ -1,0 +1,17 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+  <TextBlock>
+    <ID>1</ID>
+    <Text>POKE: Annona, you were right!</Text>
+  </TextBlock>
+    <TextBlock>
+    <ID>2</ID>
+    <ParentID>1</ParentID>
+    <Text>POKE: PS: Something seems to have happened to this planet's other moon. It's acting erratic. Landing there is not advised.</Text>
+  </TextBlock>
+  <ShipLogConditions>
+    <RevealFact>
+      <FactID>Brightdusk_moon</FactID>
+      <Condition>2</Condition>
+    </RevealFact>
+  </ShipLogConditions>
+</NomaiObject>

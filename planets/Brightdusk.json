@@ -1,0 +1,408 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Brightdusk",
+	"Atmosphere": {
+		"hasRain": true
+	},
+	"Base": {
+		"ambientLight": 10.0,
+		"gravityFallOff": "linear",
+		"groundSize": 50.0,
+		"hasMapMarker": true,
+		"surfaceGravity": 60.0,
+		"surfaceSize": 51.0
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"siderealPeriod": 22.0,
+		"semiMajorAxis": 15000.0,
+		"inclination": 20.0
+	},
+	"Props": {
+		"reveal": [
+			{
+			  "position": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			  },
+			  "revealOn": "observe",
+			  "reveals": [
+				"Brightdusk_property"
+			  ],
+			  "radius": 700
+			},
+			{
+				"position": {
+				  "x": 0,
+				  "y": 0,
+				  "z": 0
+				},
+				"revealOn": "enter",
+				"reveals": [
+				  "Brightdusk_layers"
+				],
+				"radius": 150
+			  }
+		  ],
+		"details": [
+			{
+				"alignToNormal": true,
+				"path": "StatueIsland_Body/Sector_StatueIsland/Interactables_StatueIsland/ControlledByProxy_StatueIsland/Props_NOM_DockingTractorBeam (1)",
+				"position": {
+					"x": 51.0000153,
+					"z": -1.52587891E-05
+				},
+				"keepLoaded": true
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_City/Lighting_City/Lights_FossilDistrict/Prefab_NOM_Lamp_Glow_Diamond_Wall",
+				"position": {
+					"x": 51.5633049,
+					"y": -7.72483826,
+					"z": -7.230503
+				},
+				"rotation": {
+					"x": 313.623444,
+					"y": 180.0,
+					"z": 90.0
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_City/Lighting_City/Lights_FossilDistrict/Prefab_NOM_Lamp_Glow_Diamond_Wall",
+				"position": {
+					"x": 51.7306328,
+					"y": -7.67303467,
+					"z": -10.0810032
+				},
+				"rotation": {
+					"x": 274.7469,
+					"y": 0.000288868672,
+					"z": 269.9997
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.56333,
+					"y": -6.616928,
+					"z": -6.20994759
+				},
+				"rotation": {
+					"x": 327.9148,
+					"y": 180.0,
+					"z": 90.00002
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.5632744,
+					"y": -4.968704,
+					"z": -8.787794
+				},
+				"rotation": {
+					"x": 321.000916,
+					"y": 180.0,
+					"z": 90.00002
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.5633469,
+					"y": 5.319626,
+					"z": -7.5383606
+				},
+				"rotation": {
+					"x": 69.14318,
+					"y": 180.000031,
+					"z": 90.0000458
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.5633163,
+					"y": 8.317429,
+					"z": -6.85020256
+				},
+				"rotation": {
+					"x": 75.4260559,
+					"y": 180.000015,
+					"z": 90.00003
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Props_NOM_Table",
+				"position": {
+					"x": 51.5633469,
+					"y": 6.898926,
+					"z": -6.85333633
+				},
+				"rotation": {
+					"x": 0.90803057,
+					"y": 3.73572834E-06,
+					"z": 269.999969
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Props_NOM_Table",
+				"position": {
+					"x": 51.5633354,
+					"y": 10.288269,
+					"z": -1.10449409
+				},
+				"rotation": {
+					"x": 16.2544746,
+					"y": 180.0,
+					"z": 90.00002
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.5632858,
+					"y": -8.365204,
+					"z": 6.049551
+				},
+				"rotation": {
+					"x": 311.537964,
+					"y": 180.0,
+					"z": 90.0000153
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.563324,
+					"y": 5.445221,
+					"z": 8.400652
+				},
+				"rotation": {
+					"x": 62.3739662,
+					"y": 180.000031,
+					"z": 90.0000458
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.56334,
+					"y": 4.30422974,
+					"z": 10.21673
+				},
+				"rotation": {
+					"x": 32.3070831,
+					"y": 180.000015,
+					"z": 90.0000458
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"position": {
+					"x": 51.5632858,
+					"y": 1.9949646,
+					"z": 10.2584143
+				},
+				"rotation": {
+					"x": 356.43103,
+					"y": 180.0,
+					"z": 90.00004
+				}
+			}
+		],
+		"nomaiText": [
+			{
+				"position": {
+					"x": 51.92937,
+					"y": -6.023271,
+					"z": -7.82933044
+				},
+				"rotation": {
+					"x": 25.4329185,
+					"y": 354.994,
+					"z": 43.1780624
+				},
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Dialogue/nomaitext1.xml",
+				"rename": "nomai_discussion"
+			}
+		],
+		"scatter": [
+			{
+				"count": 30,
+				"offset": {
+					"z": -294.0
+				},
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"minHeight": 299.0
+			},
+			{
+				"count": 3,
+				"offset": {
+					"z": -196.0
+				},
+				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Props_PioneerDimension/OtherComponentsGroup/Tree_TH_Stump",
+				"minHeight": 299.0
+			},
+			{
+				"count": 3,
+				"offset": {
+					"z": -165.0
+				},
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"minHeight": 299.0
+			},
+			{
+				"count": 6,
+				"offset": {
+					"z": -238.0
+				},
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"minHeight": 299.0
+			},
+			{
+				"count": 4,
+				"offset": {
+					"z": -272.0
+				},
+				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Props_PioneerDimension/OtherComponentsGroup/Tree_TH_Stump",
+				"minHeight": 299.0
+			},
+			{
+				"count": 2,
+				"offset": {
+					"z": -158.0
+				},
+				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Props_PioneerDimension/OtherComponentsGroup/Tree_TH_Stump",
+				"minHeight": 299.0
+			},
+			{
+				"count": 3,
+				"offset": {
+					"z": -207.0
+				},
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
+				"minHeight": 299.0
+			},
+			{
+				"count": 2,
+				"offset": {
+					"z": -264.0
+				},
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
+				"minHeight": 299.0
+			},
+			{
+				"count": 1,
+				"offset": {
+					"z": -226.0
+				},
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
+				"minHeight": 299.0
+			},
+			{
+				"count": 1,
+				"offset": {
+					"z": -199.0
+				},
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
+				"minHeight": 299.0
+			},
+			{
+				"count": 1,
+				"offset": {
+					"z": -145.0
+				},
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
+				"minHeight": 299.0
+			},
+			{
+				"count": 4,
+				"offset": {
+					"z": -1300.0
+				},
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
+				"scale": 0.1,
+				"minHeight": 299.0
+			},
+			{
+				"count": 3,
+				"offset": {
+					"z": -1620.0
+				},
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
+				"scale": 0.1,
+				"minHeight": 299.0
+			},
+			{
+				"count": 5,
+				"offset": {
+					"z": -128.0
+				},
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QYuccaTree/Q_YuccaTree/Prefab_Tree_HT_Yucca",
+				"minHeight": 299.0
+			},
+			{
+				"count": 5,
+				"offset": {
+					"z": -159.0
+				},
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QYuccaTree/Q_YuccaTree/Prefab_Tree_HT_Yucca",
+				"minHeight": 299.0
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"Rings": [
+		{
+			"fluidType": "cloud",
+			"innerRadius": 550.0,
+			"outerRadius": 650.0,
+			"rotationSpeed": 10.0,
+			"texture": "planets/Assets/neon.png",
+			"unlit": true
+		}
+	],
+	"ShipLog": {
+		"xmlFile": "planets/Shiplog/shiplog_brightdusk.xml",
+		"spriteFolder": "planets/Sprites/",
+		"curiosities": [
+			{
+			  "id": "Brightdusk_main",
+			  "color": {
+				"r": 68,
+				"g": 214,
+				"b": 44,
+				"a": 255
+			  },
+			  "highlightColor": {
+				"r": 68,
+				"g": 214,
+				"b": 44,
+				"a": 255
+			  }
+			}
+		  ],
+		  "entryPositions": [
+			{
+			  "id": "Brightdusk_main",
+			  "position": {
+				"x": 700,
+				"y": 1400
+			  }
+			}
+		  ]
+	},
+	"ShockEffect": {},
+	"Water": {
+		"size": 300.0,
+		"tint": {
+			"r": 255,
+			"g": 173,
+			"a": 0
+		}
+	}
+}

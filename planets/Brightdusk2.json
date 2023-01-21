@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Brightdusk.",
+	"Base": {
+		"gravityFallOff": "linear",
+		"groundSize": 5.0,
+		"hasMapMarker": true,
+		"surfaceGravity": 10.0,
+		"surfaceSize": 6.0
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"siderealPeriod": 22.0,
+		"semiMajorAxis": 15000.0,
+		"inclination": 20.0
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {},
+	"Water": {
+		"size": 175.0,
+		"tint": {
+			"r": 77,
+			"g": 77,
+			"b": 255,
+			"a": 0
+		}
+	}
+}

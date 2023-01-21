@@ -1,0 +1,67 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+  <TextBlock>
+    <ID>1</ID>
+    <Text>PYE: What a fascinating object! The core seems to repel us, somehow!</Text>
+  </TextBlock>
+    <TextBlock>
+    <ID>2</ID>
+    <ParentID>1</ParentID>
+    <Text>YARROW: Perhaps the pink liquid is pushing us up?</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>3</ID>
+    <ParentID>2</ParentID>
+    <Text>CLARY: I somehow doubt that. Normal uplift forces would not be enough to compensate for our weight.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>4</ID>
+    <ParentID>3</ParentID>
+    <Text>POKE: Hypothesis: The core is composed of a powerful magnet, which is repelling us!</Text>
+  </TextBlock>
+    <TextBlock>
+    <ID>5</ID>
+    <ParentID>4</ParentID>
+    <Text>RAMIE: Given the energies, it would explain the core's unusual luminosity.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>6</ID>
+    <ParentID>5</ParentID>
+    <Text>PYE: But what is charging us to cause such a repelling effect?</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>7</ID>
+    <ParentID>6</ParentID>
+    <Text>RAMIE: Ah, but of course! It's the water! The water is imparting its charge on us!</Text>
+  </TextBlock>
+    <TextBlock>
+    <ID>8</ID>
+    <ParentID>7</ParentID>
+    <Text>PYE: To get such a charge in the first place... the planet must have been through a great journey to get here!</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>9</ID>
+    <ParentID>8</ParentID>
+    <Text>CLARY: But wouldn't the water be repelled and flung into the void then, given such intense forces pushing at it?</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>10</ID>
+    <ParentID>9</ParentID>
+    <Text>POKE: Hypothesis: The core has a high density, enough that its gravitational force is sufficient to counteract the magnetic repulsion.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>11</ID>
+    <ParentID>10</ParentID>
+    <Text>YARROW: To have such a mass... perhaps it could be a white dwarf, even? The remains of an extinguished star.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>12</ID>
+    <ParentID>11</ParentID>
+    <Text>PYE: Let's construct a landing pad on the core, so we can investigate this object further!</Text>
+  </TextBlock>
+  <ShipLogConditions>
+    <RevealFact>
+      <FactID>Brightdusk_core</FactID>
+      <Condition>12</Condition>
+    </RevealFact>
+  </ShipLogConditions>
+</NomaiObject>

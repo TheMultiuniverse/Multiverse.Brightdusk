@@ -1,0 +1,19 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>The Inbetweens</ID>
+    <Entry>
+        <ID>Inbetweens_main</ID>
+        <Name>The Inbetweens</Name>
+        <Curiosity>Brightdusk_main</Curiosity>
+
+        <ExploreFact>
+            <ID>Brightdusk_moon</ID>
+            <Text>One of Brightdusk's moon, The Inbetweens, seems to be acting erratically according to the Nomai.</Text>
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>Brightdusk_moon_landed</ID>
+            <Text>There seems to be flickering images of several Nomai skeletons on The Inbetweens. Attempts at landing there show that the surface has... eccentric... properties.</Text>
+        </ExploreFact>
+
+    </Entry>
+</AstroObjectEntry>

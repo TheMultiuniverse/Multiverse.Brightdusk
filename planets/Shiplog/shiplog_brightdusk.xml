@@ -1,0 +1,30 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>Brightdusk</ID>
+    <Entry>
+        <ID>Brightdusk_main</ID>
+        <Name>Brightdusk</Name>
+        <Curiosity>Brightdusk_main</Curiosity>
+        <IsCuriosity/>
+
+        <ExploreFact>
+            <ID>Brightdusk_history</ID>
+            <Text>Brightdusk was apparently a planet that entered the system and was captured by the Sun. It was initially encased in a later of ice which then melted over time.</Text>
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>Brightdusk_property</ID>
+            <Text>Brightdusk is, somehow, a completely dark world surrounded by a bright neon ring. On closer inspection, the body is completely covered with a thick layer of strangely coloured liquid. Two moons orbit it.</Text>
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>Brightdusk_layers</ID>
+            <Text>Brightdusk interior is composed of 3 layers of liquid - orange, green, and pink in that order. Skeletons of anglerfish can be seen floating eerily in the darkness.</Text>
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>Brightdusk_core</ID>
+            <Text>The layer around Brightdusk's core seems to repel any object that tries to enter it. The Nomais theorised that this is due to the core's magnetic charge repelling against the magnetic charge that the liquid in the planet's outer layers passed onto us.</Text>
+        </ExploreFact>
+
+    </Entry>
+</AstroObjectEntry>

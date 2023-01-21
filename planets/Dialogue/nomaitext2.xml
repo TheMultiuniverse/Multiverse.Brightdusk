@@ -1,0 +1,48 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+  <TextBlock>
+    <ID>1</ID>
+    <Text>MELORAE: A new celestial object seems to have entered our little system, captured by the Sun's gravitational pull!</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>2</ID>
+    <ParentID>1</ParentID>
+    <Text>MELORAE: Unfortunately, there is a thick outer layer of strangely coloured ice on it, preventing further investigation. For now, we can only observe from its moon.</Text>
+  </TextBlock>
+    <TextBlock>
+    <ID>3</ID>
+    <ParentID>2</ParentID>
+    <Text>COLEUS: It would be possible to drill down, through this layer, to the object's interior.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>4</ID>
+    <ParentID>3</ParentID>
+    <Text>FILIX: That would be reckless! We have no idea what's down there and to just drill down with no precaution would put us all in danger.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>5</ID>
+    <ParentID>4</ParentID>
+    <Text>ANNONA: Actually, since it has just entered our system, there is a significant chance that the solar energy from our Sun may be enough to melt the ice, eventually.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>6</ID>
+    <ParentID>5</ParentID>
+    <Text>COLEUS: So you suggest that we simply wait?</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>7</ID>
+    <ParentID>6</ParentID>
+    <Text>ANNONA: Well, why not? We'll be stuck here for a long time, after all.</Text>
+  </TextBlock>
+  <ShipLogConditions>
+    <RevealFact>
+      <FactID>Brightdusk_history</FactID>
+      <Condition>7</Condition>
+    </RevealFact>
+  </ShipLogConditions>
+  <ShipLogConditions>
+    <RevealFact>
+      <FactID>Dimdawn_base</FactID>
+      <Condition>7</Condition>
+    </RevealFact>
+  </ShipLogConditions>
+</NomaiObject>

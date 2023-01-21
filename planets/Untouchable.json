@@ -1,0 +1,66 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "The Inbetweens",
+	"Base": {
+		"ambientLight": 1.5,
+		"gravityFallOff": "linear",
+		"groundSize": 30.0,
+		"hasMapMarker": true,
+		"surfaceGravity": 5.0,
+		"surfaceSize": 30
+	},
+	"Orbit": {
+		"primaryBody": "Brightdusk.",
+		"isTidallyLocked": true,
+		"semiMajorAxis": 425.0
+	},
+	"Props": {
+		"scatter": [
+			{
+				"count": 20,
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_NorthPoleSurface/Props_NorthPoleSurface/OtherComponentsGroup/LowBuilding/Prefab_NOM_SimpleChair"
+			}
+		],
+		"reveal": [
+			{
+			  "position": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			  },
+			  "revealOn": "enter",
+			  "reveals": [
+				"Brightdusk_moon_landed"
+			  ],
+			  "radius": 32
+			},
+			{
+				"position": {
+				  "x": 0,
+				  "y": 0,
+				  "z": 0
+				},
+				"revealOn": "observe",
+				"reveals": [
+				  "Brightdusk_moon_saw"
+				],
+				"radius": 50
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {
+		"xmlFile": "planets/Shiplog/shiplog_the_inbetweens.xml",
+		"spriteFolder": "planets/Sprites/",
+		"entryPositions": [
+			{
+			  "id": "Inbetweens_main",
+			  "position": {
+				"x": 1000,
+				"y": 1200
+			  }
+			}
+		  ]
+	},
+	"ShockEffect": {}
+}

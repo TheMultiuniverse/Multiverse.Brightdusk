@@ -1,0 +1,19 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>Dimdawn</ID>
+    <Entry>
+        <ID>Dimdawn_main</ID>
+        <Name>Dimdawn</Name>
+        <Curiosity>Brightdusk_main</Curiosity>
+
+        <ExploreFact>
+            <ID>Dimdawn_tree</ID>
+            <Text>One of Brightdusk's moon, Dimdawn, seems to orbit Brightdusk along its ring. There are Nomai furniture present on it and they seem to have also planted a tree.</Text>
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>Dimdawn_base</ID>
+            <Text>The early Nomai seems to have used Dimdawn as an observational spot while Brightdusk was still encased in ice.</Text>
+        </ExploreFact>
+
+    </Entry>
+</AstroObjectEntry>
