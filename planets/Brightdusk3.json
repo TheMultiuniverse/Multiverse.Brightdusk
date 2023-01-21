@@ -13,7 +13,9 @@
 		"semiMajorAxis": 15000.0,
 		"inclination": 20.0
 	},
-	"ReferenceFrame": {},
+	"ReferenceFrame": {
+		"enabled": false
+	},
 	"ShipLog": {},
 	"ShockEffect": {},
 	"Water": {

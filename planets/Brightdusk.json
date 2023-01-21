@@ -66,7 +66,8 @@
 					"x": 313.623444,
 					"y": 180.0,
 					"z": 90.0
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_City/Lighting_City/Lights_FossilDistrict/Prefab_NOM_Lamp_Glow_Diamond_Wall",
@@ -79,7 +80,8 @@
 					"x": 274.7469,
 					"y": 0.000288868672,
 					"z": 269.9997
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -92,7 +94,8 @@
 					"x": 327.9148,
 					"y": 180.0,
 					"z": 90.00002
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -105,7 +108,8 @@
 					"x": 321.000916,
 					"y": 180.0,
 					"z": 90.00002
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -118,7 +122,8 @@
 					"x": 69.14318,
 					"y": 180.000031,
 					"z": 90.0000458
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -131,7 +136,8 @@
 					"x": 75.4260559,
 					"y": 180.000015,
 					"z": 90.00003
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Props_NOM_Table",
@@ -144,7 +150,8 @@
 					"x": 0.90803057,
 					"y": 3.73572834E-06,
 					"z": 269.999969
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Props_NOM_Table",
@@ -157,7 +164,8 @@
 					"x": 16.2544746,
 					"y": 180.0,
 					"z": 90.00002
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -170,7 +178,8 @@
 					"x": 311.537964,
 					"y": 180.0,
 					"z": 90.0000153
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -183,7 +192,8 @@
 					"x": 62.3739662,
 					"y": 180.000031,
 					"z": 90.0000458
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -196,7 +206,8 @@
 					"x": 32.3070831,
 					"y": 180.000015,
 					"z": 90.0000458
-				}
+				},
+				"keepLoaded": true
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
@@ -209,7 +220,8 @@
 					"x": 356.43103,
 					"y": 180.0,
 					"z": 90.00004
-				}
+				},
+				"keepLoaded": true
 			}
 		],
 		"nomaiText": [
@@ -237,7 +249,8 @@
 					"z": -294.0
 				},
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 3,
@@ -245,7 +258,8 @@
 					"z": -196.0
 				},
 				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Props_PioneerDimension/OtherComponentsGroup/Tree_TH_Stump",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 3,
@@ -253,7 +267,8 @@
 					"z": -165.0
 				},
 				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 6,
@@ -261,7 +276,8 @@
 					"z": -238.0
 				},
 				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 4,
@@ -269,7 +285,8 @@
 					"z": -272.0
 				},
 				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Props_PioneerDimension/OtherComponentsGroup/Tree_TH_Stump",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 2,
@@ -277,7 +294,8 @@
 					"z": -158.0
 				},
 				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Props_PioneerDimension/OtherComponentsGroup/Tree_TH_Stump",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 3,
@@ -285,7 +303,8 @@
 					"z": -207.0
 				},
 				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Props_DreamZone_1/OtherComponentsGroup/Trees_Z1/DreamHouseIsland/Tree_DW_M_Var",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 2,
@@ -293,7 +312,8 @@
 					"z": -264.0
 				},
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 1,
@@ -301,7 +321,8 @@
 					"z": -226.0
 				},
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 1,
@@ -309,7 +330,8 @@
 					"z": -199.0
 				},
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 1,
@@ -317,7 +339,8 @@
 					"z": -145.0
 				},
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 4,
@@ -326,7 +349,8 @@
 				},
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
 				"scale": 0.1,
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 3,
@@ -335,7 +359,8 @@
 				},
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton/anglerfish_skeleton_head",
 				"scale": 0.1,
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 5,
@@ -343,7 +368,8 @@
 					"z": -128.0
 				},
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QYuccaTree/Q_YuccaTree/Prefab_Tree_HT_Yucca",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			},
 			{
 				"count": 5,
@@ -351,7 +377,8 @@
 					"z": -159.0
 				},
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QYuccaTree/Q_YuccaTree/Prefab_Tree_HT_Yucca",
-				"minHeight": 299.0
+				"minHeight": 299.0,
+				"keepLoaded": true
 			}
 		]
 	},

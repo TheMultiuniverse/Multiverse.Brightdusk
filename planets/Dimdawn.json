@@ -137,7 +137,10 @@
 			}
 		]
 	},
-	"ReferenceFrame": {},
+	"ReferenceFrame": {
+		"hideInMap": true,
+		"maxTargetDistance": 3000
+	},
 	"ShipLog": {
 		"xmlFile": "planets/Shiplog/shiplog_dimdawn.xml",
 		"spriteFolder": "planets/Sprites/",

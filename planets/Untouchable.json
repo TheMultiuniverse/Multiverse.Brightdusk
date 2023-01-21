@@ -18,7 +18,8 @@
 		"scatter": [
 			{
 				"count": 20,
-				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_NorthPoleSurface/Props_NorthPoleSurface/OtherComponentsGroup/LowBuilding/Prefab_NOM_SimpleChair"
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_NorthPoleSurface/Props_NorthPoleSurface/OtherComponentsGroup/LowBuilding/Prefab_NOM_SimpleChair",
+				"keepLoaded": true
 			}
 		],
 		"reveal": [
@@ -48,7 +49,10 @@
 			}
 		]
 	},
-	"ReferenceFrame": {},
+	"ReferenceFrame": {
+		"hideInMap": true,
+		"maxTargetDistance": 3000
+	},
 	"ShipLog": {
 		"xmlFile": "planets/Shiplog/shiplog_the_inbetweens.xml",
 		"spriteFolder": "planets/Sprites/",
