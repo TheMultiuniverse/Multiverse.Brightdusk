@@ -14,7 +14,7 @@
 	},
 	"Orbit": {
 		"primaryBody": "SUN",
-		"siderealPeriod": 22.0,
+		"siderealPeriod": 0.5,
 		"semiMajorAxis": 15000.0,
 		"inclination": 20.0
 	},
