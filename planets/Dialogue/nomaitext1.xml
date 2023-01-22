@@ -21,47 +21,57 @@
     <TextBlock>
     <ID>5</ID>
     <ParentID>4</ParentID>
-    <Text>RAMIE: Given the energies, it would explain the core's unusual luminosity.</Text>
-  </TextBlock>
-  <TextBlock>
-    <ID>6</ID>
-    <ParentID>5</ParentID>
-    <Text>PYE: But what is charging us to cause such a repelling effect?</Text>
-  </TextBlock>
-  <TextBlock>
-    <ID>7</ID>
-    <ParentID>6</ParentID>
-    <Text>RAMIE: Ah, but of course! It's the water! The water is imparting its charge on us!</Text>
+    <Text>CLARY: That's a silly idea. We aren't charged, the liquid around it isn't charged, and not to mention that such an object would lose its charge over time.</Text>
   </TextBlock>
     <TextBlock>
+    <ID>6</ID>
+    <ParentID>5</ParentID>
+    <Text>PYE: Ah, what if it's from radiation pressure from all the photons emitted by the core?</Text>
+  </TextBlock>
+    <TextBlock>
+    <ID>7</ID>
+    <ParentID>6</ParentID>
+    <Text>POKE: It would require a truly enormous amount of luminosity to generate enough radiation pressure to repel us... but it would explain core's unusual brightness.</Text>
+  </TextBlock>
+  <TextBlock>
     <ID>8</ID>
     <ParentID>7</ParentID>
-    <Text>PYE: To get such a charge in the first place... the planet must have been through a great journey to get here!</Text>
+    <Text>YARROW: But then why aren't the liquid around it also blown away by this pressure?</Text>
   </TextBlock>
   <TextBlock>
     <ID>9</ID>
     <ParentID>8</ParentID>
-    <Text>CLARY: But wouldn't the water be repelled and flung into the void then, given such intense forces pushing at it?</Text>
+    <Text>PYE: I'm not sure. Perhaps it has a high adhesive force with whatever material the core is made of?</Text>
   </TextBlock>
-  <TextBlock>
+    <TextBlock>
     <ID>10</ID>
     <ParentID>9</ParentID>
-    <Text>POKE: Hypothesis: The core has a high density, enough that its gravitational force is sufficient to counteract the magnetic repulsion.</Text>
+    <Text>YARROW: And perhaps the innermost layer of liquid was, somehow, travelling towards the core at a high enough velocity to overcome to radiation pressure and stick to it in the first place!</Text>
   </TextBlock>
   <TextBlock>
     <ID>11</ID>
     <ParentID>10</ParentID>
-    <Text>YARROW: To have such a mass... perhaps it could be a white dwarf, even? The remains of an extinguished star.</Text>
+    <Text>CLARY: Hmm.. how could it generate such intense luminosity?</Text>
   </TextBlock>
   <TextBlock>
     <ID>12</ID>
     <ParentID>11</ParentID>
-    <Text>PYE: Let's construct a landing pad on the core, so we can investigate this object further!</Text>
+    <Text>POKE: Perhaps it's a white dwarf - the remains of an extinguished star. Such bodies still retain some of the original star's thermal energy with which it can emit light.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>13</ID>
+    <ParentID>12</ParentID>
+    <Text>CLARY: That's still not enough... there must be something within its core to continually power it.</Text>
+  </TextBlock>
+  <TextBlock>
+    <ID>14</ID>
+    <ParentID>13</ParentID>
+    <Text>PYE: The path forward is clear then - let's construct a landing pad on the core, so we can investigate this object further!</Text>
   </TextBlock>
   <ShipLogConditions>
     <RevealFact>
       <FactID>Brightdusk_core</FactID>
-      <Condition>12</Condition>
+      <Condition>14</Condition>
     </RevealFact>
   </ShipLogConditions>
 </NomaiObject>
